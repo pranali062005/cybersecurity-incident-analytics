@@ -95,7 +95,7 @@ This project uses sample data created for educational and SQL practice purposes.
 
 ## 👨‍💻 Author
 
-**Lokesh Girase**
+**Pranali Shinde**
 
 Aspiring Data Analyst | SQL | MySQL | Data Analytics
 
